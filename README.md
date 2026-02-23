@@ -45,4 +45,17 @@ Tools:
 - HuggingFace Transformers
 - Google Colab
 
+This repository also includes a short research paper based on this project:
+
+Mental_Health_LLM_Analysis_Paper.pdf
+
+This paper was written as part of a course research project with a collaborator.
+
+My primary contributions included:
+
+- Implementing and fine-tuning the transformer models
+- Running experiments and collecting results
+- Contributing to analysis and interpretation of model performance
+- Assisting with writing the methods and results sections
+
 Author: Medha Morparia
